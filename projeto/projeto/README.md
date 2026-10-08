@@ -2,9 +2,9 @@
 
 ## Identificação
 
-- **Aluno:** _(coloque seu nome completo)_
-- **Disciplina:** _(nome da disciplina)_
-- **Professor:** _(nome do professor)_
+- **Aluno:** Iago Frânquel Freitas Sousa
+- **Disciplina:** Projeto de Banco de Dados
+- **Professor:** Anderson
 
 ## Sobre o projeto
 
@@ -94,7 +94,7 @@ O problema que resolve: registrar vendas garantindo, de forma atômica, a valida
    No Windows (PowerShell): `$env:DATABASE_URL="postgresql://..."`
 4. Se a senha tiver caracteres especiais (`@`, `#`, `/`, `:`), troque por códigos de URL (`@` = `%40`, `#` = `%23`, `/` = `%2F`, `:` = `%3A`) ou use uma senha só com letras e números.
 5. Opcional: as tabelas, a view, a function e as procedures aparecem no painel do Supabase em **Table Editor** e **Database**, o que ajuda na demonstração do vídeo.
-
+ **Vídeo:** https://youtu.be/DC_rN21dBm0
 ## Como testar os recursos
 
 - **View:** abra *Relatório de Vendas* e *Estoque*.
